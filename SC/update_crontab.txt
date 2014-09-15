@@ -1,0 +1,2 @@
+* * * * * /home/erik/sites/shiftchart.com/data/parse/R/update_shiftchart.R > /home/erik/shift.Rout 2>&1
+0 1 * * * /home/erik/sites/shiftchart.com/data/parse/R/update_shiftchart.R force_download > /home/erik/shift.Rout 2>&1
